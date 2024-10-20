@@ -1,0 +1,30 @@
+.card-prece__container{
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 70px;
+  background-color:rgba(0, 0, 0, 0.8);
+  padding: 10px;
+  color: antiquewhite;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.card-prece__title{
+  margin-bottom: 3px;
+
+}
+.card-prece__value{
+  display: flex;
+  justify-content: space-between;
+}
+.card-prece__value__console{
+  display: flex;
+
+}
+.card-prece__value__console>samp{
+  font-weight: bolder;
+  color: aqua;
+  margin-right: 10px;
+}
