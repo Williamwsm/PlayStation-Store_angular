@@ -1,12 +1,13 @@
 
 .card__container{
   position: relative;
-  border-radius: 15px;
+  border-radius: 10px;
   width:400px;
   height: 420px;
   display: flex;
   overflow: hidden;
-  margin-top: 25px;
+  margin-top: 20px;
+  margin-right: 20px;
 }
 .card__container:hover{
   border: 3px solid #3e4357;
