@@ -5,13 +5,14 @@
   z-index: 999;
   background-color: #ffffff;
   width: 100%;
-  height: 40px;
+  height: 80px;
   box-shadow: 0px,0px,6px,0px rgba(0, 0, 0, 0.5);
 }
 .menu-bar__logo>img{
   width: 140px;
   height: 32px;
   margin-left: 30px;
+  margin-top: 20px;
   display: flex;
   align-items: center;
 }
@@ -35,11 +36,12 @@
   color: rgb(7, 7, 7);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: large;
+  font-weight: 600;
 }
 .menu-bar__item>ul>li>a:hover{
   background-color: rgba(52, 52, 52, 0.169);
   border-radius: 24px;
-  font-weight: 600;
+  font-weight: 650;
 
 }
 .menu-bar__item>ul>li>a:active{
