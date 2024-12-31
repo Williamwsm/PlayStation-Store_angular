@@ -1,10 +1,12 @@
 .home__container{
-  width: 95%;
+  width: 100%;
   margin: auto;
-  padding-top: 50px;
+  padding-top: 80px;
   display:flex;
    justify-content: center;
    align-items: baseline;
    flex-wrap:wrap;
+   background:rgb( 2,0,36);
+  background: linear-gradient(90deg, rgb(225, 224, 224)0%,rgb(237, 236, 236)0%, rgb(230, 230, 230)100%);
 
 }
